@@ -1,5 +1,3 @@
-A Digital System for a Simple Coffee Vending Machine.
-
 ## :computer:Digital System for a Coffee Vending Machine
 This digital system simulates how a coffee vending machine works in terms of its logic circuit.
 A circuit was also implemented, using logisim, as reference for the creation of the digital system.
